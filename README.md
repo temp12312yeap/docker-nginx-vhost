@@ -93,6 +93,8 @@ $ curl http://localhost:8001
 $ curl http://localhost:8001
 <h1>A</h1>
 ```
-
+```
+nginx
+````
 # ref
 - https://hub.docker.com/
